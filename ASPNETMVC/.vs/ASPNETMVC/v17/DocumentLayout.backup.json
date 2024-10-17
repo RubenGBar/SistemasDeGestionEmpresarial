@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\ASPNETMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4A81088-1A72-4A9F-BD5B-64B8C0512CB7}|Ejemplo\\Ejemplo.csproj|c:\\users\\rgarcia\\desktop\\repositorios\\sistemasgestionempresarial\\aspnetmvc\\ejemplo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4A81088-1A72-4A9F-BD5B-64B8C0512CB7}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4A81088-1A72-4A9F-BD5B-64B8C0512CB7}|Ejemplo\\Ejemplo.csproj|c:\\users\\rgarcia\\desktop\\repositorios\\sistemasgestionempresarial\\aspnetmvc\\ejemplo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4A81088-1A72-4A9F-BD5B-64B8C0512CB7}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4A81088-1A72-4A9F-BD5B-64B8C0512CB7}|Ejemplo\\Ejemplo.csproj|c:\\users\\rgarcia\\desktop\\repositorios\\sistemasgestionempresarial\\aspnetmvc\\ejemplo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D4A81088-1A72-4A9F-BD5B-64B8C0512CB7}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A81088-1A72-4A9F-BD5B-64B8C0512CB7}|Ejemplo\\Ejemplo.csproj|c:\\users\\rgarcia\\desktop\\repositorios\\sistemasgestionempresarial\\aspnetmvc\\ejemplo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4A81088-1A72-4A9F-BD5B-64B8C0512CB7}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 250,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +34,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\ASPNETMVC\\Ejemplo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejemplo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\ASPNETMVC\\Ejemplo\\Index.cshtml",
+              "RelativeToolTip": "Ejemplo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T11:04:41.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\ASPNETMVC\\Ejemplo\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Ejemplo\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\ASPNETMVC\\Ejemplo\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Ejemplo\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T10:59:00.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\ASPNETMVC\\Ejemplo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Ejemplo\\Views\\Home\\Index.cshtml",
@@ -39,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\ASPNETMVC\\Ejemplo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Ejemplo\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\ASPNETMVC\\Ejemplo\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Ejemplo\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T11:51:56.339Z",
               "EditorCaption": ""

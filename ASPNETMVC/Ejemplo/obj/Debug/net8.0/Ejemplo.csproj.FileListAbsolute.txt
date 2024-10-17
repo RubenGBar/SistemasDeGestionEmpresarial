@@ -28,3 +28,4 @@ C:\Users\rgarcia\Desktop\Repositorios\SistemasGestionEmpresarial\ASPNETMVC\Ejemp
 C:\Users\rgarcia\Desktop\Repositorios\SistemasGestionEmpresarial\ASPNETMVC\Ejemplo\obj\Debug\net8.0\Ejemplo.pdb
 C:\Users\rgarcia\Desktop\Repositorios\SistemasGestionEmpresarial\ASPNETMVC\Ejemplo\obj\Debug\net8.0\Ejemplo.genruntimeconfig.cache
 C:\Users\rgarcia\Desktop\Repositorios\SistemasGestionEmpresarial\ASPNETMVC\Ejemplo\obj\Debug\net8.0\ref\Ejemplo.dll
+C:\Users\rgarcia\Desktop\Repositorios\SistemasGestionEmpresarial\ASPNETMVC\Ejemplo\obj\Debug\net8.0\Ejemplo.sourcelink.json

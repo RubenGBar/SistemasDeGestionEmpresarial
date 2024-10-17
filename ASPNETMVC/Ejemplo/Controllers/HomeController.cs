@@ -28,7 +28,7 @@ namespace Ejemplo.Controllers
             return "Hola Mundo";
 
         }
-            public IActionResult Privacy()
+        public IActionResult Privacy()
         {
             return View();
         }
