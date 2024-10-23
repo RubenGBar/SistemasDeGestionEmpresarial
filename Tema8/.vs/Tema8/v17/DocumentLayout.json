@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema8\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A67CB0A-F6BB-41F2-BA72-68DF5FBCC282}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\rgarcia\\desktop\\repositorios\\sistemasgestionempresarial\\tema8\\ejercicio1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A67CB0A-F6BB-41F2-BA72-68DF5FBCC282}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A67CB0A-F6BB-41F2-BA72-68DF5FBCC282}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\rgarcia\\desktop\\repositorios\\sistemasgestionempresarial\\tema8\\ejercicio1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A67CB0A-F6BB-41F2-BA72-68DF5FBCC282}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A67CB0A-F6BB-41F2-BA72-68DF5FBCC282}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\rgarcia\\desktop\\repositorios\\sistemasgestionempresarial\\tema8\\ejercicio1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A67CB0A-F6BB-41F2-BA72-68DF5FBCC282}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 250,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema8\\Ejercicio1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema8\\Ejercicio1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ejercicio1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T11:07:20.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema8\\Ejercicio1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema8\\Ejercicio1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ejercicio1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T11:07:19.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema8\\Ejercicio1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema8\\Ejercicio1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T11:07:11.444Z",
+              "EditorCaption": ""
             }
           ]
         },
