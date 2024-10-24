@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C42D983-A926-4168-B0C2-AF9D9745BBCF}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\rgarcia\\desktop\\repositorios\\sistemasgestionempresarial\\tema7\\ejercicio1\\views\\home\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C42D983-A926-4168-B0C2-AF9D9745BBCF}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\home\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C42D983-A926-4168-B0C2-AF9D9745BBCF}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\rgarcia\\desktop\\repositorios\\sistemasgestionempresarial\\tema7\\ejercicio1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C42D983-A926-4168-B0C2-AF9D9745BBCF}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F5BF1015-D2B8-43C9-B04F-E7ACD2A877B6}|Elementos de la soluci\u00F3n{F5BF1015-D2B8-43C9-B04F-E7ACD2A877B6}|C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema7\\Ejercicio4.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5BF1015-D2B8-43C9-B04F-E7ACD2A877B6}|Elementos de la soluci\u00F3n{F5BF1015-D2B8-43C9-B04F-E7ACD2A877B6}|solutionrelative:Ejercicio4.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "View.cshtml",
-              "DocumentMoniker": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema7\\Ejercicio1\\Views\\Home\\View.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio1\\Views\\Home\\View.cshtml",
-              "ToolTip": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema7\\Ejercicio1\\Views\\Home\\View.cshtml",
-              "RelativeToolTip": "Ejercicio1\\Views\\Home\\View.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T11:17:00.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema7\\Ejercicio1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema7\\Ejercicio1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Ejercicio1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T11:09:09.912Z",
+              "Title": "Ejercicio4.txt",
+              "DocumentMoniker": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema7\\Ejercicio4.txt",
+              "RelativeDocumentMoniker": "Ejercicio4.txt",
+              "ToolTip": "C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\Tema7\\Ejercicio4.txt",
+              "RelativeToolTip": "Ejercicio4.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-22T12:29:46.239Z",
               "EditorCaption": ""
             }
           ]
