@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RealUnidad8/1.0.0": {
+        "runtime": {
+          "RealUnidad8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RealUnidad8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
