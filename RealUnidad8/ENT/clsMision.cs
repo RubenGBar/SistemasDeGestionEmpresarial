@@ -8,17 +8,18 @@ namespace ENT
 {
     public class clsMision
     {
-        int idMision { get; set; }
+        public int id { get; set; }
         String nombre { get; set; }
         String descripcion { get; set; }
         int recompensa { get; set; }
 
         public clsMision() { }
-        public clsMision(string nombre, string descripcion, int recompensa)
+        public clsMision(int Id, string Nombre, string Descripcion, int Recompensa)
         {
-            this.nombre = nombre;
-            this.descripcion = descripcion;
-            this.recompensa = recompensa;
+            id = Id;
+            nombre = Nombre;
+            descripcion = Descripcion;
+            recompensa = Recompensa;
         }
     }
 }
