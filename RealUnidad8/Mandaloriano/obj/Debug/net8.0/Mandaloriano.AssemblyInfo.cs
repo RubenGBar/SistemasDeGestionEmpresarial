@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mandaloriano")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25d05c3e0dbc78ee161a1cd3189ce42cb82cffe8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4221b93a784c2c18d45b577181fe0c98f5cab90d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mandaloriano")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mandaloriano")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

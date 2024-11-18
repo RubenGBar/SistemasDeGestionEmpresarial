@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{C2CC2F45-EBF4-4617-8D47-55BCDD3D1B44}|DAL\\DAL.csproj|solutionrelative:dal\\listamisiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08B26218-E205-46EC-A90E-0319DEA7438D}|ENT\\ENT.csproj|c:\\users\\rgarcia\\desktop\\repositorios\\sistemasgestionempresarial\\realunidad8\\ent\\clsmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08B26218-E205-46EC-A90E-0319DEA7438D}|ENT\\ENT.csproj|C:\\Users\\rgarcia\\Desktop\\Repositorios\\SistemasGestionEmpresarial\\RealUnidad8\\ent\\clsmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08B26218-E205-46EC-A90E-0319DEA7438D}|ENT\\ENT.csproj|solutionrelative:ent\\clsmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "ENT\\clsMision.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T12:39:01.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T12:39:01.24Z"
             },
             {
               "$type": "Document",
